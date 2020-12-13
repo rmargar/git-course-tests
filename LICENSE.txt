@@ -1,2 +1,1 @@
-dlsf
-adlsfjkas
+This is a dummy License file.
